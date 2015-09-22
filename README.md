@@ -3,9 +3,8 @@
 
 **.md stands for markdown and is generated at the bottom of your github page as html.**
 
--just
--as
--an
--fyi
+-just as
+
+-an fyi
 
     pwd
